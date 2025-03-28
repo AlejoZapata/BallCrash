@@ -1,2 +1,2 @@
 # BallCrash
-En este repositorio se encontrara todo lo relacionado con el proyecto final de electronica digital III llamado Ball Crash.
+Ball Crash es un juego competitivo para dos jugadores, donde cada uno tiene un control para realizar tres acciones: moverse a la derecha, moverse a la izquierda y disparar. El objetivo es marcar goles en la portería contraria, y el primer jugador en llegar a seis puntos gana. El juego se desarrolla en una pista cerrada, con sensores en cada portería para contar los goles y actuadores en los jugadores para permitir su movimiento. Además, los displays muestran la puntuación y el ganador en tiempo real. Este proyecto busca ofrecer una experiencia divertida y dinámica, combinando control físico e interacción tecnológica.
